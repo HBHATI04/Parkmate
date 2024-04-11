@@ -12,18 +12,6 @@ parking problem </h1>
 >Our system provides an optimal solution for parking in the field of parking management. While there are various parking automation systems in place, there are still minor improvements that can benefit both parking slot owners and users. Our system is similar to parking slot booking, but it is not limited to organized or well-known parking areas. Instead, it caters to homeowners who have unused parking spaces and want to rent them out for a period of time. This enables users to find nearby parking spots more easily. Avoid overload traffic and no parking issues 
 
 
-
-## Team Name - BinaryBrains
-
-#### Team Members :
-
-- [Siddhiraj kolwankar ](https://github.com/Kolwankar-Siddhiraj)
-- [Nilesh Gawli ](https://github.com/nileshgawli)
-- [Dhanshree Patangrao ](https://github.com/Dhanshree019)
-
-
-## Tech Stack
-
 - Frontend
 
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
